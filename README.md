@@ -6,7 +6,7 @@
 * **Link to Information**  [Periodic Table](https://www.sigmaaldrich.com/DO/es/technical-documents/technical-article/chemistry-and-synthesis/organic-reaction-toolbox/periodic-table-of-elements-names).
 
 **Link to the project here :point_down:**
-* **Link to Github Page** [Periodic Table](https://yhancarlospm.github.io/Periodic_Table_Practice/).
+* **Link to Github Page** [Periodic Table](https://yhancarlospm.github.io/periodic-table-practice/).
 
  <img src="images/table.png" width="500">
 
